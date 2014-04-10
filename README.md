@@ -6,7 +6,7 @@
 <blockquote formatblock="1" style="margin: 0.8em 0px 0.8em 2em; padding: 0px 0px 0px 0.7em; border-left: 2px solid rgb(221, 221, 221);">
     git clone https://github.com/puteulanus/heroku-php-zend.git php-zend
     <br>
-    cd zend
+    cd php-zend
     <br>
     heroku create --stack cedar 应用名
     <br>

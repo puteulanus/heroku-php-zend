@@ -8,7 +8,7 @@ Install：
     <br>
     cd php-zend
     <br>
-    heroku create YourAppName
+    heroku create YourAppName --buildpack https://github.com/puteulanus/heroku-buildpack-php
     <br>
     git push heroku master
     <br>
